@@ -1,0 +1,53 @@
+{
+    "name": "New Orleans, LA",
+    "description": "One Team. One Fight. One Voice. One City.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-12-pm.png",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api",
+        "louisiana",
+        "new orleans",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/new-orleans-la\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "New Orleans, LA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-12-pm.png",
+            "humanURL": "https:\/\/data.nola.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/new-orleans-la-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/new-orleans-la-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/city-of-new-orleans"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MayorLandrieu"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/data.nola.gov\/"
+        }
+    ]
+}
